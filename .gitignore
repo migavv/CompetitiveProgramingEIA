@@ -22,3 +22,9 @@ bin/
 !*/bin/*.exe
 
 .vscode
+
+uva/146_ID_Codes.c++
+uva/Jolly_Jumpers_V2.c++
+uva/11340_Newspaper.c++
+uva/11044_Searching_for_Nessy.c++
+uva/10107_What_Is_The_Median.c++
